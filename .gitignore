@@ -6,3 +6,7 @@
 
 # Ignore TestMyCode artifacts
 **/.tmcproject.yml
+**/.tmcproject.json
+
+# Ignore checkstyle artifacts
+**/.checkstyle.xml
